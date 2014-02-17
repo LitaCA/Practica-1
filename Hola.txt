@@ -8,4 +8,5 @@ int main()
 		printf("Estoy aprendiendo");
 		printf("Acabo de borrar la linea de arriba");
 		printf("A ver que me sale ahora");
+		printf("Soy feliz como lombriz, me salio");
 	}
